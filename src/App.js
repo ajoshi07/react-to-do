@@ -16,7 +16,7 @@ class App extends React.Component
 
   }
   handleState(){
-         this.setState({value:'hello Props!'});
+         this.setState({value:'hello Props'});
   }
   render ()
   {
